@@ -1,0 +1,2 @@
+# Infirmary-Superintendence
+Infirmary superintendence is a softaware that provides the with an overall view of the university medical records which are digitalized.It ensures well-organized database of medical staff and students. And students can have their own accounts having their personal and medical details,which can be accessed by doctor for medication and admin to maintain it. It increases time of examining of patient,since the advise is given digitally.
